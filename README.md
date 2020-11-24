@@ -19,3 +19,5 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 hwpplayers-kindness.github.io web site source code
 
 ![Culture](artwork/communityandfreedom.png)
+
+The source for keys is https://commons.wikimedia.org/wiki/File:Hands-Dangling-Keys-Silhouette.svg
